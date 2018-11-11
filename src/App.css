@@ -16,10 +16,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(20px + 2vmin);
+  font-size: calc(50px + 2vmin);
   font-weight: bolder;
   font-family: fantasy;
-  color: #190a05;
+
 }
 
 .App-link {

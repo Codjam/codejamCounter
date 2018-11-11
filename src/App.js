@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Counter from './components/Counter';
 
+
 class App extends Component {
   render() {
     return (
@@ -12,8 +13,8 @@ class App extends Component {
           <p>
             C7 <code> to</code> C5
           </p>
-        
           <Counter />
+
         </header>
       </div>
     );
